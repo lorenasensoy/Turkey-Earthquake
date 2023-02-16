@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: red;
   font-family: 'Raleway', sans-serif;
   padding: 0px;
   margin: 0px;
@@ -10,7 +10,7 @@ body {
   height: 200px;
   width: 100vw;
   position: absolute;
-  border-bottom: 3px solid orange;
+  border-bottom: 3px solid white;
   top: 0;
   left: 0;
 }
@@ -48,7 +48,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: red;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -106,7 +106,7 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: gray;
+  color: grey;
 }
 a.source:visited {
   color: grey;
