@@ -1,6 +1,6 @@
 body {
-  background-color: a4133c;
-  font-family: 'Oswald', Medium 500;
+  background-color: #a4133c;
+  font-family: 'Oswald', sans-serif;
   padding: 0px;
   margin: 0px;
   overflow: hidden;
@@ -48,7 +48,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: a4133c;
+  background-color: #a4133c;
   width: 100vw;
   z-index: 100;
   margin: 0;
