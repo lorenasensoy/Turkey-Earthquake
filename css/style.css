@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background-color: a4133c;
   font-family: 'Roboto', Regular 400;
   padding: 0px;
   margin: 0px;
@@ -48,7 +48,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: red;
+  background-color: a4133c;
   width: 100vw;
   z-index: 100;
   margin: 0;
