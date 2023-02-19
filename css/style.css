@@ -7,17 +7,12 @@ body {
   overflow: hidden;
   
   .chapter-header {
-    display:block;
-    text-align:center;
     font-style: italic; 
     background-color: dimgrey;
 
 }
 .description {
-  margin: 20px;
-  text-align: left;
-  font-size:11pt;
-  padding:20px;
+
   background-color: gainsboro;
 }
 
