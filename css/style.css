@@ -102,7 +102,7 @@ body {
   text-align: center;
   font-size: 1.2em;
   padding: 0 5px;
-  background-color:lightgray;
+  background-color:gray;
 }
 
 .source {
@@ -119,6 +119,7 @@ a.source:visited {
   text-align: left;
   font-size: 11pt;
   padding: 20px;
+  backgroung-color:red;
   
 }
 
