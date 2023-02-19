@@ -6,15 +6,7 @@ body {
   margin: 0px;
   overflow: hidden;
   
-  .chapter-header {
-    font-style: italic; 
-    background-color: dimgrey;
 
-}
-.description {
-
-  background-color: gainsboro;
-}
 
 #map {
   height: 200px;
