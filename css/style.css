@@ -1,12 +1,10 @@
 body {
   background:#a4133c;
-  color: white;
+  color: grey;
   font-family: 'Oswald', sans-serif;
   padding: 0px;
   margin: 0px;
   overflow: hidden;
-  
-
 
 #map {
   height: 200px;
