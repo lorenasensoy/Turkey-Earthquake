@@ -103,7 +103,8 @@ body {
   text-align: center;
   font-size: 1.2em;
   padding: 0 5px;
-  background-color:gray;
+  background-color:#9e2a2b;
+  font-color:#edf6f9;
 }
 
 .source {
