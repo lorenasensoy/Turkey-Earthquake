@@ -102,6 +102,7 @@ body {
   text-align: center;
   font-size: 1.2em;
   padding: 0 5px;
+  background-color:lightgray;
 }
 
 .source {
@@ -118,6 +119,7 @@ a.source:visited {
   text-align: left;
   font-size: 11pt;
   padding: 20px;
+  
 }
 
 .in-focus {
