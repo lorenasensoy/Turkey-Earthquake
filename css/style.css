@@ -1,6 +1,6 @@
 body {
   background:#a4133c;
-  color: white;
+  color: #edf6f9;
   font-family: 'Oswald', sans-serif;
   padding: 0px;
   margin: 0px;
@@ -11,7 +11,7 @@ body {
   height: 200px;
   width: 100vw;
   position: absolute;
-  border-bottom: 3px solid white;
+  border-bottom: 3px solid #edf6f9;
   top: 0;
   left: 0;
 }
@@ -167,16 +167,16 @@ a.source:visited {
 #header {
   padding: 5px 0;
   text-align: center;
-  color: gray;
-  font-color:white;
+  color: #a5a58d;
+  font-color:#edf6f9;
 }
 
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
   font-size: 1.5em;
-  font-color:white;
-  background-color:red;
+  font-color:#edf6f9;
+  background-color:#9e2a2b;
 }
 
 h2 {
