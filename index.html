@@ -61,11 +61,12 @@
 
   <script type="text/javascript">
     // Create the Leaflet map with a generic start point
-    var map = L.map('map', OpenStreetMap_CH = L.tileLayer('https://tile.osm.ch/switzerland/{z}/{x}/{y}.png', {
-	maxZoom: 18,
-	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-	bounds: [[45, 5], [48, 11]]
-});
+    var map= L.map('map', {
+	    center:[0,0],
+	    zoom:1,
+	    scrollWheelZoom: false,
+	    tap: false
+    });
      
   </script>
 
