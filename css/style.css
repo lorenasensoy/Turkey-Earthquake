@@ -169,14 +169,14 @@ a.source:visited {
   padding: 5px 0;
   text-align: center;
   color: #a5a58d;
-  font-color:#edf6f9;
+  font-color:#f4f3ee;
 }
 
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
   font-size: 1.5em;
-  font-color:#edf6f9;
+  font-color:#f4f3ee;
   background-color:#9e2a2b;
 }
 
